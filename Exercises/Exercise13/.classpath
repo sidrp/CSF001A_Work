@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Part1/Exercise13/Exercise13/src"/>
+	<classpathentry kind="lib" path="Part1/Exercise13/__MACOSX/Exercise13/._becker.jar"/>
+	<classpathentry kind="lib" path="Part1/Exercise13/Exercise13/becker.jar"/>
+	<classpathentry kind="output" path="Part1/Exercise13/Exercise13/bin"/>
+</classpath>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Part1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Cloud/GDrive/Sid/Java/Foothill CS1A/Robot/becker.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
